@@ -1,0 +1,8 @@
+number = [5, 6, 7, 8, 9]
+number.append() means that to add a item at the last in the list
+number.insert() means that where to you want to add the item in the list
+number.remove() means to remove an item in the list
+number.clear() means to clear everything from the list
+number.pop() means to remove the last item in the list
+number.index() means to tell where is the item's position in the list
+
